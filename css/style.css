@@ -1,0 +1,165 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+header{
+    height:70px;
+}
+.head{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.strict{
+    width: 40%;
+    padding: 20px;
+}
+.menu{
+    width: 40%;
+    padding: 30px;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.ul li{
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    color: #15a4fa;
+    font-family: 'Lato', sans-serif;
+    text-transform:capitalize;
+
+}
+.banner{
+    background-image: url(../images/image.png);
+    min-height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+.strc{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.strc h1{
+    font-family:'Lato', sans-serif;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 8px;
+    font-size: xxx-large;
+
+}
+.strc span{
+    display: block;
+    background: #15A4FA;
+    height: 2px;
+    width: 35%;
+    margin: auto;
+    margin-bottom: 15px;
+
+}
+.strc p{
+    font-family:'Lato', sans-serif;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+
+}
+.strc button{
+    border-radius: 5px;
+    padding: 10px;
+    color: #ffffff;
+    background-color: transparent;
+    border-color:#15A4FA;
+    margin-bottom: 100px;
+
+}
+.strc a{
+    color: #ffffff
+
+}
+.content{
+    width: 80%;
+    text-align: center;
+    padding: 50px;
+    margin-left: 100px;
+}
+
+.content h1{
+    font-family:'Lato', sans-serif;
+    color: #636c7d;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+.content p{
+    font-family:'Lato', sans-serif;
+    color: #636c7d;
+    text-transform: capitalize;
+    
+}
+.logo_dgn{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    text-align: center;
+}
+.phon img{
+    height: 50px;
+    margin-bottom: 15px;
+}
+.phon h4{
+    color:#636c7d;
+    font-family:'Lato', sans-serif;
+    margin-bottom: 10px;
+
+}
+.phon p{
+    color:#636c7d;
+    font-family:'Lato', sans-serif;
+    font-size: 12px;
+
+}
+.plane img{
+    height: 50px;
+    margin-bottom: 15px;
+}
+.plane h4{
+    color:#636c7d;
+    font-family:'Lato', sans-serif;
+    margin-bottom: 10px;
+
+}
+.plane p{
+    color:#636c7d;
+    font-family:'Lato', sans-serif;
+    font-size: 12px;
+
+
+}
+.mick img{
+    height: 50px;
+    margin-bottom: 15px;
+}
+.mick h4{
+    color:#636c7d;
+    font-family:'Lato', sans-serif;
+    margin-bottom: 10px;
+
+}
+.mick p{
+    color:#636c7d;
+    font-family:'Lato', sans-serif;
+    font-size: 12px;
+
+}
