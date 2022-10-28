@@ -49,6 +49,9 @@ ul li a{
 }
 .strc{
     width:30%;
+    text-align:center;
+    align-items:center;
+    justify-content:center;
 }
 
 .strc h1{
